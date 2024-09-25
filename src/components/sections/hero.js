@@ -61,7 +61,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Joseph Dubill.</h2>;
-  const three = <h3 className="big-heading">I do nothing right now.</h3>;
+  const three = <h3 className="big-heading">I work with AI</h3>;
   const four = (
     <>
       <p>
@@ -73,7 +73,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      href="https://github.com/joeydubill/Fractal-Zoom"
       target="_blank"
       rel="noreferrer">
       Check out my latest project!

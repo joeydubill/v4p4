@@ -135,18 +135,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Joseph and I enjoy working with data and exploring the capabilities
-              of AI. My interest in programming started in high school, building out small
-              minesweeper like games with my friends, using a modular javascript interface.
+              Hello! My name is Joey. My interest in programming started in high school, building
+              out small minesweeper-like games with my friends, using a modular javascript
+              interface. I studied undergraduate Computer Science at UB, and worked at the SUNY
+              Research Foundation in 2019, contributing to a project using machine learning to
+              predict cyberthreats.
             </p>
 
             <p>
-              Fast forward to the present, and I have a B.S. in Computer Science from UB, and a
-              newfound interest in machine learning and AI. I have had the priveldge of working at
-              the SUNY Research Foundation, contributing to a project using machine learning to
-              predict cyberthreats. These days I am diving into the world of AI, technical and
-              non-technical, and I hope to utilize the progress humans have been making to develop
-              safe, effective, useful-AI-driven apps.
+              After graduating in 2021, I spent some time away from programming, while exploring
+              potential career paths, but with the recent AI developments I decided to dive back in.
+              These days I am focused on data analysis and AI, technical and non-technical. I hope
+              to utilize the progress humans have been making to develop safe, useful, AI-driven
+              apps. I also enjoy web development, and am currently working on a few small projects.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

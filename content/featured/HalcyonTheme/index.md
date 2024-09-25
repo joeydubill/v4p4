@@ -3,7 +3,7 @@ date: '1'
 title: 'DFA Simulator'
 cover: './DFA.png'
 github: 'https://github.com/joeydubill/Automata-Simulator'
-external: 'https://github.com/joeydubill/Reliable-Transfer-Protocols/tree/master/jwdubill/src'
+external: 'https://github.com/joeydubill/Automata-Simulator'
 tech:
   - Javascript
   - Vis.js

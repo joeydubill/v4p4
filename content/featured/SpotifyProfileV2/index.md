@@ -1,16 +1,17 @@
 ---
 date: '3'
-title: 'IDEK'
+title: 'FractalZoom'
 cover: './holo.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+github: 'https://github.com/joeydubill/Fractal-Zoom'
+external: 'https://fractalzoom-cd960970da49.herokuapp.com/'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - HTML
+  - Javascript
+  - CSS
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+Fractals have always been interesting to me, both visually and mathematically.
+I built a tool that allows users to explore the depths of different types of fractals.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Users can adjust color, max iterations, select predefined fractal sets, and even import their own formulae.
+Zoom smoothing and rendering optimization included (it can still be slow).

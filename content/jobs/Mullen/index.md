@@ -1,12 +1,18 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2019-06-01'
+title: 'Software Developer'
+company: 'SUNY Research Foundation'
+location: 'Buffalo, NY'
+range: 'June - December 2019'
+url: 'https://www.youtube.com/watch?v=qwjSAVNXjcw'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+Worked in cooperation with Intelligenesis LLC to develop an intelligent modeling framework for cyberspace threat actor behaviors.
+
+Researched new data sources, cleaned and processed data for model training and enrichment.
+
+Used Java to implement K-Modes Clustering and Collaborative Filtering for modeling data.
+
+Implemented UI dashboards using React.js and Redux.
+
+Successfully predicted the usage of new threat tactics by multiple actors, confirmed by MITRE.
