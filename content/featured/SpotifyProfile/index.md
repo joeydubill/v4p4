@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Bias in Traffic Stops'
+cover: './bias.png'
+github: 'https://github.com/joeydubill'
+external: 'https://assets.ctfassets.net/2l9otg5dwk4a/50khbBLycnaMFVdUqUfzWU/44bcbd1100745059017198677365b70e/Bias_In_Traffic_Stops__Veil_of_Darkness.pdf'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - R
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+An analysis on traffic stops and ways we can see that racial bias exists.
+Using data from millions of traffic stops, we were able to show racial disecrepencies between search and hit rate.
+Affirmed findings using aggregated "Veil of Darknesss" test.

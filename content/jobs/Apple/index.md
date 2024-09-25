@@ -1,13 +1,13 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2023-07-06'
+title: 'Drilling Assistant'
+company: 'Empire Exploration'
+location: 'Buffalo, NY'
+range: 'June - August 2023'
+url: 'https://www.empiregeoexp.com/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Worked with senior drill rig operator to safely and effeciently perform Standard Penetration Tests while drilling up to 50ft deep.
+- Monitored mud content and consistency, operated hammer while counting blow counts related to each sample.
+- Facilitated the cycle of drilling d sampling, swapping all bits and samplers, while recording all data neccessary.
+- Manually inspected samples and notated type of sample, depth, blow count, and other important information.
